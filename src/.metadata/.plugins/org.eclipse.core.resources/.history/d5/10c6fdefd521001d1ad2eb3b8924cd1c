@@ -1,0 +1,8 @@
+package com.sonata2;
+
+public class Typecastingoverhere {
+	int myint=9;
+	double mydouble=myint;
+	System.out.println(myint); 
+
+}

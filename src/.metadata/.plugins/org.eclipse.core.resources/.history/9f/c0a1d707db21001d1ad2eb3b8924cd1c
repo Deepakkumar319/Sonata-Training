@@ -1,0 +1,13 @@
+package com.sonata2;
+
+public class Savingexamples {
+
+	public static void main(String[] args) {
+		int accNo;
+		String accName;
+		double balance;
+		// TODO Auto-generated method stub
+
+	}
+
+}

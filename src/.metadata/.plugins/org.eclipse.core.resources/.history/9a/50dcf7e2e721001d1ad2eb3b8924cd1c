@@ -1,0 +1,19 @@
+package com.sonata2;
+
+public class Bank {
+	int accNo;
+	String accName;
+	double balance;
+	
+	Bank(int a,String n,double b){
+		this.accNo=a;
+		this.accName=n;
+		this.balance=b;
+	}
+	public void deposite() {
+		System.out.println(this.accNo);
+		
+	}
+	public void withDraw() {}
+
+}

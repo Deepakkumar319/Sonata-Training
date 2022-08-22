@@ -1,0 +1,12 @@
+package com.sonata2;
+
+public class Savingexamples {
+
+	public static void main(String[] args) {
+		int accNo;
+		
+		// TODO Auto-generated method stub
+
+	}
+
+}

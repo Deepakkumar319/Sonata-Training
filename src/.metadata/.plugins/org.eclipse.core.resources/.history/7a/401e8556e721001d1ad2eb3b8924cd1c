@@ -1,0 +1,13 @@
+package com.sonata2;
+
+public class CurrentAccount extends Bank{
+
+	public static void main(String[] args) {
+		CurrentAccount c1=new CurrentAccount();
+		c1.accNo=124;
+		c1.deposite();
+		
+
+	}
+
+}

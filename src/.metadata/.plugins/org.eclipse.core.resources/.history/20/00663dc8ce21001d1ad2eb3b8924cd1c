@@ -1,0 +1,16 @@
+package com.sonata2;
+
+public class Singlearray {
+
+	public static void main(String[] args) {
+		a[]={1,2,3};
+		int sum=0;
+		for(int i=0;i<5;i++)
+		{
+			sum+=a[i];
+		}
+		System.out.println(sum);
+
+	}
+
+}

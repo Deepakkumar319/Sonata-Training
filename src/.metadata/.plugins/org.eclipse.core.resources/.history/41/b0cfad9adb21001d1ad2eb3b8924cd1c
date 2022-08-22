@@ -1,0 +1,17 @@
+package com.sonata2;
+
+public class Savingexamples {
+
+	
+		int accNo;
+		String accName;
+		double balance;
+		public void deposite() {}
+		public void withDraw() {}
+		
+		public static void main(String[] args) {
+		
+
+	}
+
+}
