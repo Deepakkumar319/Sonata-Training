@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="sonatatraining (1)" project="sonatatraining" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="com.example.demo.AddTestCase" time="0.0" displayname="AddTestCase" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.AddTestCase]">
+    <testcase name="addTest1" classname="com.example.demo.AddTestCase" time="0.0" displayname="addTest1()" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.AddTestCase]/[method:addTest1()]"/>
+    <testcase name="addTest2" classname="com.example.demo.AddTestCase" time="0.0" displayname="addTest2()" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.AddTestCase]/[method:addTest2()]"/>
+    <testcase name="addTest3" classname="com.example.demo.AddTestCase" time="0.0" displayname="addTest3()" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.AddTestCase]/[method:addTest3()]"/>
+  </testsuite>
+  <testsuite name="com.example.demo.SonatatrainingApplicationTests" time="0.476" displayname="SonatatrainingApplicationTests" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.SonatatrainingApplicationTests]">
+    <testcase name="contextLoads" classname="com.example.demo.SonatatrainingApplicationTests" time="0.476" displayname="contextLoads()" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.SonatatrainingApplicationTests]/[method:contextLoads()]"/>
+  </testsuite>
+</testrun>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="AddTestCase" project="sonatatraining" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="com.example.demo.AddTestCase" time="0.017" displayname="AddTestCase" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.AddTestCase]">
+    <testcase name="addTest1" classname="com.example.demo.AddTestCase" time="0.013" displayname="addTest1()" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.AddTestCase]/[method:addTest1()]"/>
+    <testcase name="addTest2" classname="com.example.demo.AddTestCase" time="0.001" displayname="addTest2()" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.AddTestCase]/[method:addTest2()]"/>
+    <testcase name="addTest3" classname="com.example.demo.AddTestCase" time="0.001" displayname="addTest3()" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.AddTestCase]/[method:addTest3()]"/>
+  </testsuite>
+</testrun>

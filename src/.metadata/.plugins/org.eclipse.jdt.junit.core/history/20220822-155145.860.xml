@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CalTest2" project="Day01Project" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.sonata2.CalTest2" time="0.004" displayname="CalTest2" uniqueid="[engine:junit-vintage]/[runner:com.sonata2.CalTest2]">
+    <testcase name="addtest" classname="com.sonata2.CalTest2" time="0.004" displayname="addtest" uniqueid="[engine:junit-vintage]/[runner:com.sonata2.CalTest2]/[test:addtest(com.sonata2.CalTest2)]"/>
+  </testsuite>
+</testrun>

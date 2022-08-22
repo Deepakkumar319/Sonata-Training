@@ -1,0 +1,17 @@
+package com.sonata2;
+import org.junit.Test;
+
+
+import org.junit.jupiter.api.Assertions;
+
+
+
+class CalTest {
+
+	@Test
+	public void addtest() {
+		Calculator a1=new Calculator();
+		Assertions.assertEquals(4,a1.add(2, 2));
+	}
+
+}

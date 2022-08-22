@@ -1,0 +1,21 @@
+package com.sonata2;
+
+public class Calculator {
+	public int add(int a,int b) {
+		return a+b;
+	}
+	public int mul(int a,int b) {
+		return a+b;
+	}
+
+	public static void main(String[] args) {
+		Calculator a1=new Calculator();
+		int a=10;
+		int b=20;
+		int c=a1.add(a,b);
+		int d=a1.mul(a, b);
+		System.out.println(c);
+		System.out.println(d);
+	}
+
+}

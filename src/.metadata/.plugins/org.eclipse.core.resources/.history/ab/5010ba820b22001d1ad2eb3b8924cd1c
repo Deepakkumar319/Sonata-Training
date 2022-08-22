@@ -1,0 +1,23 @@
+package com.sonata2;
+
+public class CurrentAccount extends Bank{
+	CurrentAccount(){}
+	CurrentAccount(int a,String n,double b){
+		super(a,n,b);
+	}
+	CurrentAccount(int b,String s){}
+	public static void main(String[] args) {
+		CurrentAccount c1=new CurrentAccount(234,"abc",456);
+		//c1.accNo=124;
+		c1.deposite(500d);
+		
+		CurrentAccount c2=new CurrentAccount();
+		c2.balance=20d;
+		
+		
+		
+		
+
+	}
+
+}

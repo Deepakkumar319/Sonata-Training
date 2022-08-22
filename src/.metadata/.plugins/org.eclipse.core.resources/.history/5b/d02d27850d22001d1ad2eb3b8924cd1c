@@ -1,0 +1,49 @@
+package com.sonata2;
+import org.junit.Test;
+
+
+import org.junit.jupiter.api.Assertions;
+
+
+
+public class CalTest2{
+
+	/*@Test
+	public void addtest() {
+		Calculator a1=new Calculator();
+		Assertions.assertEquals(4,a1.add(2, 2));
+		Assertions.assertEquals(4,a1.mul(2, 2));
+	}
+	@Test
+	public void addtest2() {
+		Calculator a1=new Calculator();
+		
+		Assertions.assertEquals(4,a1.mul(2, 2));
+	}*/
+	@Test
+	public void addtest3() {
+		Bank a1=new Bank();
+		
+		Assertions.assertEquals(2,a1.deposite(2));
+	}
+	@Test
+	public void addtest6() {
+		Bank a1=new Bank();
+		
+		Assertions.assertEquals(-2,a1.deposite(-2));
+	}
+	@Test
+	public void addtest4() {
+		Bank a1=new Bank();
+		
+		Assertions.assertEquals(-2,a1.withDraw(2));
+	}
+	@Test
+	public void addtest5() {
+		Bank a1=new Bank();
+		
+		Assertions.assertEquals(-5,a1.withDraw(5));
+	}
+
+
+}

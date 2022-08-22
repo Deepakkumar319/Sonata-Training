@@ -16,6 +16,7 @@ class AddTestCase {
 		Addinterface add=new DefaultAddition();
 		assertEquals(0,add.add(1, -1));
 	}
+	@Test
 	void addTest3() {
 		Addinterface add=new DefaultAddition();
 		assertEquals(2,add.add(1, 1));
