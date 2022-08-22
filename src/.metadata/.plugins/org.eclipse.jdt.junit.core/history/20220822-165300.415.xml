@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="CalTest2" project="Day01Project" tests="4" started="4" failures="0" errors="0" ignored="0">
-  <testsuite name="com.sonata2.CalTest2" time="0.009" displayname="CalTest2" uniqueid="[engine:junit-vintage]/[runner:com.sonata2.CalTest2]">
-    <testcase name="addtest3" classname="com.sonata2.CalTest2" time="0.005" displayname="addtest3" uniqueid="[engine:junit-vintage]/[runner:com.sonata2.CalTest2]/[test:addtest3(com.sonata2.CalTest2)]"/>
-    <testcase name="addtest4" classname="com.sonata2.CalTest2" time="0.001" displayname="addtest4" uniqueid="[engine:junit-vintage]/[runner:com.sonata2.CalTest2]/[test:addtest4(com.sonata2.CalTest2)]"/>
-    <testcase name="addtest5" classname="com.sonata2.CalTest2" time="0.001" displayname="addtest5" uniqueid="[engine:junit-vintage]/[runner:com.sonata2.CalTest2]/[test:addtest5(com.sonata2.CalTest2)]"/>
-    <testcase name="addtest6" classname="com.sonata2.CalTest2" time="0.0" displayname="addtest6" uniqueid="[engine:junit-vintage]/[runner:com.sonata2.CalTest2]/[test:addtest6(com.sonata2.CalTest2)]"/>
-  </testsuite>
-</testrun>

@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="AddTestCase.addTest2" project="sonatatraining" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="com.example.demo.AddTestCase" time="0.03" displayname="AddTestCase" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.AddTestCase]">
-    <testcase name="addTest2" classname="com.example.demo.AddTestCase" time="0.03" displayname="addTest2()" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.AddTestCase]/[method:addTest2()]"/>
-  </testsuite>
-</testrun>
